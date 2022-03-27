@@ -6,7 +6,7 @@ namespace CensusAnalyzer_Day29
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("WelCome to CensusAnayzer Problems");
         }
     }
 }
